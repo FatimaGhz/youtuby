@@ -24,6 +24,10 @@
     display: none;
 }
 
+.comments {
+    margin-right: 60px;
+}
+
 .public-comment .card .btn {
     background-color: #921192;
     border-color: #921192;
